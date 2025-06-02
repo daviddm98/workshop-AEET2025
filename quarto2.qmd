@@ -33,7 +33,17 @@ You can add options to executable code like this
 The `echo: false` option disables the printing of code (only output is displayed).
 
 ::: callout-caution
-## cuidaaaaao
+## Atencione personas sensibles
 
-esto mola
+Abajo tenemos una foto de las mejores plantas del mundo
 :::
+
+![](images/tray_47_yield_indv.jpg)
+
+| Planta | semillas/fruto | Total |
+|--------|:--------------:|:------|
+| 1_47   | 10             | 20    |
+| 2_47   | 20             | 40    |
+| 3_47   | 30             | 60    |
+
+: La tabla de Sergio
